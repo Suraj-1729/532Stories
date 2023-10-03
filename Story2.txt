@@ -1,6 +1,5 @@
 A gritty, no-nonsense postal worker discovers a forgotten manuscript in the dead-letter office, penned by an anonymous author whose words reveal the hidden desires and regrets of the city's forgotten souls.
 
-<<<<<<< HEAD
 In the gritty and no-nonsense atmosphere of the city's dead-letter office, a postal worker stumbles upon a long-forgotten manuscript. Its author remains anonymous, but within the pages lie the unspoken desires 
 and buried regrets of those the city has left behind.( Chnages by Mufutau Ramon)
 
@@ -8,5 +7,9 @@ I am Sanjana
 =======
 I am Muafutau Ramon
 I am Sanjana
+<<<<<<< HEAD
 Sindhu !
 >>>>>>> origin
+=======
+Sindhu !
+>>>>>>> refs/remotes/origin/main
