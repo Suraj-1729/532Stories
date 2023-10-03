@@ -1,5 +1,9 @@
 A down-on-his-luck gambler stumbles upon a mysterious game of chance hidden in a corner of Disney World, where winning could change his life forever.
 Hi! its me Sanjana
+<<<<<<< HEAD
 
 In the heart of Disney World, a gambler down on his luck stumbles upon a clandestine game of chance, shrouded in mystery. Within this hidden corner of the park, the stakes are higher than he could ever imagine. To emerge victorious 
 could mean a life-altering change, while the wrong move might consign him to an uncertain fate. (Mufutau Ramon) 
+=======
+I am Sindhu
+>>>>>>> origin
